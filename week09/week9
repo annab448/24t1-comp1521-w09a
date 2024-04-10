@@ -1,0 +1,4 @@
+environment variables, constructing pathname - print_diary.c
+using stat & chmod to access/change metadata - chmod_if_public_write.c
+using fscanf, negative numbers revision - print_file_bits.c (not done in class)
+-Wpedantic flag and niche pointer rules - void-pointer.c, pointer-arithmetic.c 
